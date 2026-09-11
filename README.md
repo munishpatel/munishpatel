@@ -1,5 +1,12 @@
-## Hi there 👋
+<div align="center">
+<!-- Capsule Render Header - very reliable -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:ffffff&height=220&section=header&text=Munish%20Patel&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20Enthusiast%20%E2%9C%A6%20Innovator&descAlignY=58&descAlign=50&descSize=18&descColor=f5f5f5" />
 
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=munishpatel&label=Profile%20views&color=0e75b6&style=flat" alt="munishpatel"/>
+</p>
 <!--
 **munishpatel/munishpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
